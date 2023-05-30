@@ -19,7 +19,9 @@ Run the included 'install_deps_plus_python.bat' if your system needs Python inst
 1. Install the required dependencies by running the following commands:
 
    pip install pynvml
+   
    pip install pynput
+   
    pip install psutil
 
 ## Usage:
