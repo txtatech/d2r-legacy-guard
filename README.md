@@ -26,7 +26,9 @@ Run the included 'install_deps_plus_python.bat' if your system needs Python inst
 
 ## Usage:
 
-Open the script in a Python environment or run it using the command: python start_legacyguard.py
+Open the script in a Python environment or run it using the command:
+
+python start_legacyguard.py
 
 The script will continuously monitor the GPU usage of all processes named "D2R.exe".
 
